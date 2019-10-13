@@ -17,5 +17,6 @@ git clone 레포지터리 주소
 파일 추가
 * 파일 변경
 * 스테이징
+![staging](images/git_staging.png)
 * 커밋
 * 푸시
